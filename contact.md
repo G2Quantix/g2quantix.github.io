@@ -29,7 +29,7 @@ Feel free to reach out—I look forward to hearing about your projects!
     <span style="font-size: 1.125rem; font-weight: 600;">Email</span>
   </a>
 
-  <a href="https://outlook.office.com/bookwithme/user/b3cdb49b33584fb39fc10c514aba9674@g2quantix.com/meetingtype/ikrOLwZbnE2sWyfVUiJmkQ2?bookingcode=959f0007-d290-457e-8298-40fc5e9e4961&anonymous&ep=mlink" target="_blank" rel="noopener" style="
+  <a href="https://outlook.office.com/bookwithme/user/b3cdb49b33584fb39fc10c514aba9674@g2quantix.com/meetingtype/VLdjZtfo0EWk3gO4ez5h6A2?bookingcode=7e2dee3d-006e-417d-9ede-f9c4ecfade43&anonymous" target="_blank" rel="noopener" style="
       flex: 1 1 250px;
       max-width: 300px;
       background-color:rgb(143, 173, 196); /* Microsoft blue */
