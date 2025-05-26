@@ -1,1 +1,1 @@
-# g2quantix.github.io
+g2quantix.github.io
