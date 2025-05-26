@@ -9,44 +9,46 @@ At G2 Quantix Solutions, we empower organizations to translate complex biologica
 
 **Services provided:**
 
-- **Strategic advising on biotech innovation and investments**  
+- ✔ **Strategic advising on biotech innovation and investments**  
   • Guidance on emerging technologies and market trends  
   • Evaluation of startup opportunities and partnership potential  
   • Risk assessment and portfolio diversification strategies  
 
-- **Drug discovery project review and portfolio optimization**  
+- ✔ **Drug discovery project review and portfolio optimization**  
   • Comprehensive assessment of ongoing research projects  
   • Prioritization of high-value targets based on data-driven insights  
   • Resource allocation to maximize R&D efficiency and success rates  
 
-- **Bioinformatics software and AI/machine learning analytics development**  
+- ✔ **Bioinformatics software and AI/machine learning analytics development**  
   • Custom algorithms for genomic, genetics and proteomic data analysis  
   • Predictive modeling to identify novel drug candidates  
   • Automation of complex workflows to accelerate data processing  
 
-- **In silico target identification and validation**  
+- ✔ **In silico target identification and validation**  
   • Computational screening of biological targets for therapeutic relevance  
   • Integration of multi-omics data to validate target efficacy and safety  
   • Simulation of molecular interactions to support drug design  
 
-- **Omics-based preclinical safety assessment and regulatory support**  
+- ✔ **Omics-based preclinical safety assessment and regulatory support**  
   • Analysis of transcriptomics and metabolomics data for toxicity profiling  
   • Support for regulatory submissions with comprehensive data packages  
   • Early identification of safety signals to mitigate late-stage failures  
 
-- **R&D IT and informatics consulting**  
+- ✔ **R&D IT and informatics consulting**  
   • Design and implementation of scalable cloud data infrastructure (AWS, Azure, GCP)  
   • Integration of laboratory information management systems (ELN/LIMS)  
   • Best practices for data governance and compliance  
 
-- **NGS data management and analysis**  
+- ✔ **NGS data management and analysis**  
   • Quality control, alignment, and variant calling for next-generation sequencing data  
   • Interpretation of genomic alterations for biomarker discovery  
   • Customized pipelines tailored to specific research needs  
 
-- **Gene Editing Analysis (CRISPR and beyond)**  
+- ✔ **Gene Editing Analysis (CRISPR and beyond)**  
   • Guide RNA design for optimized on-target efficiency  
   • Comprehensive on- and off-target analysis using computational models  
   • Validation workflows for gene editing experiments/assay
 
-**[Get in Touch & Let's Work Together →](/contact/)**   
+<div class="center">
+  **[Get in Touch & Let's Work Together →](/contact/)**
+</div>
