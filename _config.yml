@@ -79,9 +79,9 @@ Gary:
 footer_links:
   - title: LinkedIn
     url: https://www.linkedin.com/company/g2quantix/
-    icon: fab fa-linkedin-square
+    icon: fab fa-linkedin
   - title: GitHub
     url: https://github.com/G2Quantix
-    icon: fab fa-github-square
+    icon: fab fa-github
 
 copyright: "G2 Quantix Solutions LLC 2025"

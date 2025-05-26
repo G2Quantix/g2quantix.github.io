@@ -49,4 +49,4 @@ At G2 Quantix Solutions, we empower organizations to translate complex biologica
   • Comprehensive on- and off-target analysis using computational models  
   • Validation workflows for gene editing experiments/assay
 
-**[Let's Work Together and Get in Touch →](/contact/)**   
+**[Get in Touch & Let's Work Together →](/contact/)**   
