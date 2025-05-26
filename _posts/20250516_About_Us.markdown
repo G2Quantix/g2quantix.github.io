@@ -1,0 +1,13 @@
+---
+layout: post
+title: About Us
+date: 2025-05-16 13:32:20 +0300
+description: About Us
+tags: [Info]
+author: Gary
+---
+
+At G2 Quantix Solutions, we empower organizations to translate complex biological data into strategic insights, optimizing R&amp;D processes and accelerating therapeutic breakthroughs.
+
+Contact us: info@g2quantix.com
+
