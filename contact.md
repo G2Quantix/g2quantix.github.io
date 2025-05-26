@@ -9,25 +9,18 @@ Whether you’re facing complex biological data challenges, need help building a
 Feel free to reach out—I look forward to hearing about your projects!
 
 <!-- Contact Panel -->
-<div style="display: flex; gap: 2rem; margin-top: 2rem;">
+<div style="display: flex; gap: 2rem; margin-top: 2rem; justify-content: center;">
 
   <div style="text-align: center;">
-    <a href="mailto:info@g2quantix.com" style="text-decoration: none; color: inherit;">
-      📧<br>
+    <a href="mailto:info@g2quantix.com" style="text-decoration: none; color: inherit; font-size: 2.5rem;">
+      <i class="fas fa-envelope"></i><br>
       <strong>Email</strong>
     </a>
   </div>
 
   <div style="text-align: center;">
-    <a href="https://www.linkedin.com/company/g2quantix" target="_blank" rel="noopener" style="text-decoration: none; color: inherit;">
-      🔗<br>
-      <strong>LinkedIn</strong>
-    </a>
-  </div>
-
-  <div style="text-align: center;">
-    <a href="https://outlook.office.com/bookwithme/user/b3cdb49b33584fb39fc10c514aba9674@g2quantix.com/meetingtype/ikrOLwZbnE2sWyfVUiJmkQ2?bookingcode=2e17f0bc-b6c6-418b-9c94-cae22c88436d&anonymous&ep=mlink" target="_blank" rel="noopener" style="text-decoration: none; color: inherit;">
-      📅<br>
+    <a href="https://outlook.office.com/bookwithme/user/b3cdb49b33584fb39fc10c514aba9674@g2quantix.com/meetingtype/ikrOLwZbnE2sWyfVUiJmkQ2?bookingcode=2e17f0bc-b6c6-418b-9c94-cae22c88436d&anonymous&ep=mlink" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; font-size: 2.5rem;">
+      <i class="fas fa-calendar-alt"></i><br>
       <strong>Schedule a 30-min Consultation</strong>
     </a>
   </div>
