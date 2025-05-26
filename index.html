@@ -14,30 +14,23 @@
       color: #333;
     }
     .container {
+      max-width: 600px;
       padding: 2rem;
       text-align: center;
     }
-    /* Wrap logo + heading in an inline-block container sized to its content */
-    .branding {
-      display: inline-block;
-      text-align: center;
-      width: fit-content;  /* shrink-wrap to the width of its children */
-      margin-bottom: 1.5rem;
-    }
-    /* Make the logo fill that container width exactly */
     .logo {
-      display: block;
-      width: 100%;
-      height: auto;
-      margin-bottom: 0.5rem;
+      width: 50px;
+      height: 50px;
+      object-fit: contain;
+      margin-bottom: 1rem;
     }
     h1 {
       font-size: 2.5rem;
-      margin: 0;
+      margin-bottom: 0.5rem;
     }
     p {
       font-size: 1.1rem;
-      margin-bottom: 1rem;
+      margin-bottom: 1.5rem;
       line-height: 1.4;
     }
     a {
@@ -52,10 +45,8 @@
 </head>
 <body>
   <div class="container">
-    <div class="branding">
-      <img src="logo.png" alt="G2 Quantix Solutions Logo" class="logo">
-      <h1>G2 Quantix</h1>
-    </div>
+    <img src="logo.png" alt="G2 Quantix Solutions Logo" class="logo">
+    <h1>G2 Quantix</h1>
     <p><em>Driving innovation at the intersection of biotech strategy, data science, and R&amp;D informatics</em></p>
     <p>At G2 Quantix Solutions, we empower organizations to translate complex biological data into strategic insights, optimizing R&amp;D processes and accelerating therapeutic breakthroughs.</p>
     <p>Contact us: <a href="mailto:info@g2quantix.com">info@g2quantix.com</a></p>
