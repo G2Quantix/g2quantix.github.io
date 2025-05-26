@@ -21,7 +21,7 @@ At G2 Quantix Solutions, we empower organizations to translate complex biologica
 
 - **Bioinformatics software and AI/machine learning analytics development**  
   • Custom algorithms for genomic, genetics and proteomic data analysis  
-  • Predictive modeling to identify novel drug candidates
+  • Predictive modeling to identify novel drug candidates  
   • Automation of complex workflows to accelerate data processing  
 
 - **In silico target identification and validation**  
@@ -35,7 +35,7 @@ At G2 Quantix Solutions, we empower organizations to translate complex biologica
   • Early identification of safety signals to mitigate late-stage failures  
 
 - **R&D IT and informatics consulting**  
-  • Design and implementation of scalable cloud data infrastructure (AWS, Azure, GCP)
+  • Design and implementation of scalable cloud data infrastructure (AWS, Azure, GCP)  
   • Integration of laboratory information management systems (ELN/LIMS)  
   • Best practices for data governance and compliance  
 
@@ -43,3 +43,10 @@ At G2 Quantix Solutions, we empower organizations to translate complex biologica
   • Quality control, alignment, and variant calling for next-generation sequencing data  
   • Interpretation of genomic alterations for biomarker discovery  
   • Customized pipelines tailored to specific research needs  
+
+- **Gene Editing Analysis (CRISPR and beyond)**  
+  • Guide RNA design for optimized on-target efficiency  
+  • Comprehensive on- and off-target analysis using computational models  
+  • Validation workflows for gene editing experiments/assay
+
+**[Let's Work Together and Get in Touch →](/contact/)**   
