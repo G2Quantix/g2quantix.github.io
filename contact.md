@@ -14,7 +14,7 @@ Feel free to reach out—I look forward to hearing about your projects!
   <a href="mailto:info@g2quantix.com" style="
       flex: 1 1 250px;
       max-width: 300px;
-      background-color: #4CAF50; /* green */
+      background-color:rgb(135, 169, 136); /* green */
       color: white;
       text-decoration: none;
       padding: 1.5rem;
@@ -29,10 +29,10 @@ Feel free to reach out—I look forward to hearing about your projects!
     <span style="font-size: 1.125rem; font-weight: 600;">Email</span>
   </a>
 
-  <a href="https://outlook.office.com/bookwithme/user/b3cdb49b33584fb39fc10c514aba9674@g2quantix.com/meetingtype/ikrOLwZbnE2sWyfVUiJmkQ2?bookingcode=2e17f0bc-b6c6-418b-9c94-cae22c88436d&anonymous&ep=mlink" target="_blank" rel="noopener" style="
+  <a href="https://outlook.office.com/bookwithme/user/b3cdb49b33584fb39fc10c514aba9674@g2quantix.com/meetingtype/ikrOLwZbnE2sWyfVUiJmkQ2?bookingcode=4977b1e5-c61e-4570-8497-7e612efdd1c1&anonymous&ep=mlink" target="_blank" rel="noopener" style="
       flex: 1 1 250px;
       max-width: 300px;
-      background-color: #0078D4; /* Microsoft blue */
+      background-color:rgb(143, 173, 196); /* Microsoft blue */
       color: white;
       text-decoration: none;
       padding: 1.5rem;

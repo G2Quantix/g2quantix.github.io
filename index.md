@@ -50,7 +50,22 @@ At G2 Quantix Solutions, we empower organizations to translate complex biologica
   • Validation workflows for gene editing experiments/assay
 
 <div style="text-align: center; margin-top: 2rem;">
-  <a href="/contact/" style="font-weight: bold; text-decoration: none;">
+  <a href="/contact/" style="
+    display: inline-block;
+    background-color:rgb(112, 146, 172);
+    color: white;
+    font-weight: bold;
+    padding: 0.75rem 1.5rem;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: background-color 0.3s ease, transform 0.1s ease;
+    user-select: none;
+  "
+  onmouseover="this.style.backgroundColor='#005A9E'; this.style.transform='scale(1.05)';"
+  onmouseout="this.style.backgroundColor='#0078D4'; this.style.transform='scale(1)';"
+  onmousedown="this.style.transform='scale(0.95)';"
+  onmouseup="this.style.transform='scale(1.05)';"
+  >
     Let's Work Together & Get in Touch →
   </a>
 </div>
