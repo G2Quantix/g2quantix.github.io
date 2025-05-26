@@ -2,15 +2,8 @@
 
 - title: Home
   url: /
-- title: Posts
-  url: https://g2quantix.substack.com/archive
 - title: Contact
   url: /contact/
-# - title: Categories
-#  url: /categories/
-# - title: Recipes
-#   url: /recipes/
-# - title: Search
-#   url: /search/
-# - title: External Page
-#   url: https://the-page.com/you-want-to-link-to.html
+- title: Posts On Substack
+  url: https://g2quantix.substack.com/archive
+
