@@ -9,45 +9,22 @@ At G2 Quantix Solutions, we empower organizations to translate complex biologica
 
 **Services provided:**
 
-- ✔ **Strategic advising on biotech innovation and investments**  
-  • Guidance on emerging technologies and market trends  
-  • Evaluation of startup opportunities and partnership potential  
-  • Risk assessment and portfolio diversification strategies  
-
-- ✔ **Drug discovery project review and portfolio optimization**  
-  • Comprehensive assessment of ongoing research projects  
-  • Prioritization of high-value targets based on data-driven insights  
-  • Resource allocation to maximize R&D efficiency and success rates  
-
-- ✔ **Bioinformatics software and AI/machine learning analytics development**  
-  • Custom algorithms for genomic, genetics and proteomic data analysis  
-  • Predictive modeling to identify novel drug candidates  
-  • Automation of complex workflows to accelerate data processing  
-
-- ✔ **In silico target identification and validation**  
-  • Computational screening of biological targets for therapeutic relevance  
-  • Integration of multi-omics data to validate target efficacy and safety  
-  • Simulation of molecular interactions to support drug design  
-
-- ✔ **Omics-based preclinical safety assessment and regulatory support**  
-  • Analysis of transcriptomics and metabolomics data for toxicity profiling  
-  • Support for regulatory submissions with comprehensive data packages  
-  • Early identification of safety signals to mitigate late-stage failures  
-
-- ✔ **R&D IT and informatics consulting**  
-  • Design and implementation of scalable cloud data infrastructure (AWS, Azure, GCP)  
-  • Integration of laboratory information management systems (ELN/LIMS)  
-  • Best practices for data governance and compliance  
-
-- ✔ **NGS data management and analysis**  
-  • Quality control, alignment, and variant calling for next-generation sequencing data  
-  • Interpretation of genomic alterations for biomarker discovery  
-  • Customized pipelines tailored to specific research needs  
-
-- ✔ **Gene Editing Analysis (CRISPR and beyond)**  
+✔ **Strategic Advisory:**
+  •	Innovation strategy and technical due diligence for biotech/techbio investors and founders
+  •	Portfolio evaluation and prioritization to align R&D with business milestones
+✔ **Computational & AI Solutions:**
+  •	Development of AI/ML and bioinformatics platforms to power scalable discovery pipelines
+  •	In silico target identification and therapeutic modeling for novel modalities
+  •	Computational design for proteins, antibodies, and cell therapies (e.g., CAR-T)
+  •	Cloud-based NGS analytics and data infrastructure planning (ELN/LIMS/Data Lake) for data-driven organizations
+✔ **Gene Editing Analysis (CRISPR and beyond)**  
   • Guide RNA design for optimized on-target efficiency  
   • Comprehensive on- and off-target analysis using computational models  
   • Validation workflows for gene editing experiments/assay
+✔ **Translational & Regulatory:**
+  •	Multi-omics safety analytics to de-risk preclinical development
+  •	Biomarker strategy and data support for regulatory submissions (IND, BLA)
+  •	Translational and clinical data modeling to guide trial design and go/no-go decisions
 
 <div style="text-align: center; margin-top: 2rem;">
   <a href="/contact/" style="
