@@ -9,22 +9,25 @@ At G2 Quantix Solutions, we empower organizations to translate complex biologica
 
 **Services provided:**
 
-✔ **Strategic Advisory:**
-  •	Innovation strategy and technical due diligence for biotech/techbio investors and founders
-  •	Portfolio evaluation and prioritization to align R&D with business milestones
-✔ **Computational & AI Solutions:**
-  •	Development of AI/ML and bioinformatics platforms to power scalable discovery pipelines
-  •	In silico target identification and therapeutic modeling for novel modalities
-  •	Computational design for proteins, antibodies, and cell therapies (e.g., CAR-T)
-  •	Cloud-based NGS analytics and data infrastructure planning (ELN/LIMS/Data Lake) for data-driven organizations
-✔ **Gene Editing Analysis (CRISPR and beyond)**  
-  • Guide RNA design for optimized on-target efficiency  
-  • Comprehensive on- and off-target analysis using computational models  
-  • Validation workflows for gene editing experiments/assay
-✔ **Translational & Regulatory:**
-  •	Multi-omics safety analytics to de-risk preclinical development
-  •	Biomarker strategy and data support for regulatory submissions (IND, BLA)
-  •	Translational and clinical data modeling to guide trial design and go/no-go decisions
+- ✔ **Strategic Advisory:**  
+  - Innovation strategy and technical due diligence for biotech/techbio investors and founders  
+  - Portfolio evaluation and prioritization to align R&D with business milestones
+
+- ✔ **AI/ML & Computational Solutions:**  
+  - Development of AI/ML and bioinformatics platforms to power scalable discovery pipelines  
+  - In silico target identification and therapeutic modeling for novel modalities  
+  - Computational design for proteins, antibodies, and cell therapies (e.g., CAR-T)  
+  - Cloud-based NGS analytics and data infrastructure planning (ELN/LIMS/Data Lake) for data-driven organizations
+
+- ✔ **Gene Editing Analysis (CRISPR and beyond):**  
+  - Guide RNA design for optimized on-target efficiency  
+  - Comprehensive on- and off-target analysis using computational models  
+  - Validation workflows for gene editing experiments/assay
+
+- ✔ **Translational & Regulatory:**  
+  - Multi-omics safety analytics to de-risk preclinical development  
+  - Biomarker strategy and data support for regulatory submissions (IND, BLA)  
+  - Translational and clinical data modeling to guide trial design and go/no-go decisions
 
 <div style="text-align: center; margin-top: 2rem;">
   <a href="/contact/" style="
