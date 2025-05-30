@@ -4,8 +4,7 @@ title: QR Code
 permalink: /qr-code/
 ---
 
-# Scan the QR Code
-
-You can scan the QR code below to quickly access our website:
-
-![QR Code](/images/qr.png)
+<div style="text-align: center;">
+  <p>You can scan the QR code below to quickly access our website:</p>
+  <img src="/images/qr.png" alt="QR Code" style="width: 100px; margin: auto; display: block;">
+</div>
