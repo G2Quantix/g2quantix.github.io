@@ -1,7 +1,7 @@
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "G2 Quantix"
-description: "Driving innovation at the intersection of biotech strategy, data science, and R&D informatics."
+description: "Innovating at biotech’s data and AI frontier"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://www.g2quantix.com"
 logo: "/images/logo.png"

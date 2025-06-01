@@ -4,9 +4,9 @@ title: Contact
 permalink: /contact/
 ---
 
-Whether you’re facing complex biological data challenges, need help building a custom analytics pipeline, or are planning a long-term strategy to accelerate your R&D, I’m here to help. Let’s discuss how G2 Quantix Solutions can support your goals and turn your data into actionable insights.
+Whether you’re facing complex biological data challenges, need help building a custom analytics and machine learning pipeline, or are planning a long-term strategy to accelerate your R&D, I’m here to help. Let’s discuss how G2 Quantix Solutions can support your goals and turn your data into actionable insights.
 
-Feel free to reach out—I look forward to hearing about your projects!
+Feel free to reach out. I look forward to hearing about your projects!
 
 <!-- Contact Panel -->
 <div style="display: flex; gap: 1.5rem; margin-top: 2rem; justify-content: center; flex-wrap: wrap;">

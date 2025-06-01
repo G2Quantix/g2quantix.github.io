@@ -10,8 +10,8 @@ At G2 Quantix Solutions, we empower organizations to translate complex biologica
 **Services provided:**
 
 - ✔ **Strategic Advisory:**  
-  - Innovation strategy and technical due diligence for biotech/techbio investors and founders  
-  - Portfolio evaluation and prioritization to align R&D with business milestones
+  - Innovation strategy and technical due diligence for biotech/techbio investors and founders.
+  - Portfolio evaluation and prioritization to align R&D with business milestones.
 
 - ✔ **AI/ML & Computational Solutions:**  
   - Development of AI/ML and bioinformatics platforms to power scalable discovery pipelines  
