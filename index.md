@@ -3,8 +3,6 @@ permalink: /
 layout: home
 ---
 
-# Innovating at Biotech’s Data and AI Frontier
-
 **G2 Quantix Solutions** empowers biotech and pharma organizations to turn complex biological data into actionable insights—accelerating R&D and therapeutic innovation.
 
 Founded by **Gary Ge, Ph.D.**, a seasoned expert with over 15 years in computational drug discovery and development, G2 Quantix offers deep expertise in building scalable data and analytics platforms. Gary led the development of **OmicSoft’s flagship products**, including **ArrayServer**, a robust multi-omics data management system, and **OncoLand** and **DiseaseLand**, curated omics data solutions that power AI-driven drug discovery. These platforms are widely adopted by leading global biopharma companies. His work at **Amgen** and **Vor Bio** spans the full R&D data lifecycle, supporting scientific operations and regulatory filings with both strategic planning and technical depth.
