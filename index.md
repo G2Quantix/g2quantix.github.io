@@ -11,7 +11,7 @@ Founded by **Gary Ge, Ph.D.**, a seasoned expert with over 15 years in computati
 ### <i class="fas fa-database fa-lg"></i> Research Informatics and Data Management
 We design and customize cloud-native ELN, LIMS, and data lakes to make data AI-ready, guiding teams with nearly a decade of Bio-IT experience across top pharma and biotech companies.
 
-### <i class="fa fa-cog fa-spin fa-lg fa-fw"></i> Development of AI/ML Solutions
+### <i class="fa fa-cog fa-lg"></i> Development of AI/ML Solutions
 We help build predictive models using high-quality local data—such as single-cell perturbation or antibody screening—to drive target discovery and design with lab-in-the-loop AI powered by foundational models.
 
 ### <i class="fas fa-dna fa-lg"></i> Computational Biology and Bioinformatics 
