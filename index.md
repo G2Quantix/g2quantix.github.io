@@ -1,33 +1,37 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+title: "Home"
+permalink: /
+layout: single
+classes: wide
+author_profile: false
 ---
 
-At G2 Quantix Solutions, we empower organizations to translate complex biological data into strategic insights, optimizing R&D processes and accelerating therapeutic breakthroughs.
+# Innovating at Biotech’s Data and AI Frontier
 
-**Services provided:**
+**G2 Quantix Solutions** empowers biotech and pharma organizations to turn complex biological data into actionable insights—accelerating R&D and therapeutic innovation.
 
-- ✔ **Strategic Advisory:**  
-  - Innovation strategy and technical due diligence for biotech/techbio investors and founders.
-  - Portfolio evaluation and prioritization to align R&D with business milestones.
+Founded by **Gary Ge, Ph.D.**, a seasoned expert with over 15 years in computational drug discovery and development, G2 Quantix offers deep expertise in building scalable data and analytics platforms. Gary led the development of **OmicSoft’s flagship products**, including **ArrayServer**, a robust multi-omics data management system, and **OncoLand** and **DiseaseLand**, curated omics data solutions that power AI-driven drug discovery. These platforms are widely adopted by leading global biopharma companies. His work at **Amgen** and **Vor Bio** spans the full R&D data lifecycle, supporting scientific operations and regulatory filings with both strategic planning and technical depth.
 
-- ✔ **AI/ML & Computational Solutions:**  
-  - Development of AI/ML and bioinformatics platforms to power scalable discovery pipelines  
-  - In silico target identification and therapeutic modeling for novel modalities  
-  - Computational design for proteins, antibodies, and cell therapies (e.g., CAR-T)  
-  - Cloud-based NGS analytics and data infrastructure planning (ELN/LIMS/Data Lake) for data-driven organizations
+## Expertise Areas
 
-- ✔ **Gene Editing Analysis (CRISPR and beyond):**  
-  - Guide RNA design for optimized on-target efficiency  
-  - Comprehensive on- and off-target analysis using computational models  
-  - Validation workflows for gene editing experiments/assay
+<div class="columns">
 
-- ✔ **Translational & Regulatory:**  
-  - Multi-omics safety analytics to de-risk preclinical development  
-  - Biomarker strategy and data support for regulatory submissions (IND, BLA)  
-  - Translational and clinical data modeling to guide trial design and go/no-go decisions
+### Research Informatics and Data Management
+We design and customize cloud-native ELN, LIMS, and data lakes to make data AI-ready, guiding teams with nearly a decade of Bio-IT experience across top pharma and biotech companies.
+
+### Development of AI/ML Solutions
+We help build predictive models using high-quality local data—such as single-cell perturbation or antibody screening—to drive target discovery and design with lab-in-the-loop AI powered by foundational models.
+
+### Computational Biology and Bioinformatics 
+Bioinformatics is essential to modern biotech. We build semi-automated, reproducible workflows for genomic analysis—freeing computational biologists from routine tasks to focus on in silico discovery and innovation.
+
+### Gene Editing Analysis
+We guide gene editing optimization and assay design, supporting FDA-ready data packages—backed by five years of experience with genotoxicity assessments and regulatory interactions for [_trem-cel_](https://www.sciencedirect.com/science/article/pii/S2329050123001742).
+
+### Build Amazing Companies/Ventures
+With experience from building **OmicSoft** ([acquired by QIAGEN](https://corporate.qiagen.com/newsroom/press-releases/press-release-details/2017/QIAGEN-enhances-bioinformatics-portfolio-with-acquisition-of-OmicSoft/default.aspx)) and scaling **Vor Bio**, we support strategic decisions, from software evaluation to fundraising, and can serve as interim CDO or Head of Computational Biology.
+
+</div>
 
 <div style="text-align: center; margin-top: 2rem;">
   <a href="/contact/" style="
