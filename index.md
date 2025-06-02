@@ -21,7 +21,7 @@ Bioinformatics is essential to modern biotech. We build semi-automated, reproduc
 We guide gene editing optimization and assay design, delivering FDA-ready data packages—built on five years of experience in on- and off-target genotoxicity assessments and regulatory interactions for [_trem-cel_](https://www.sciencedirect.com/science/article/pii/S2329050123001742) and CD33-targeted CAR-T programs.
 
 ### <i class="fas fa-rocket fa-lg"></i> Build Amazing Companies/Ventures
-With experience from building **OmicSoft** ([acquired by QIAGEN](https://corporate.qiagen.com/newsroom/press-releases/press-release-details/2017/QIAGEN-enhances-bioinformatics-portfolio-with-acquisition-of-OmicSoft/default.aspx)) and scaling **Vor Bio**, we support strategic decisions, from software evaluation to fundraising, and can serve as interim CDO or Head of Computational Biology.
+With experience from building **OmicSoft** ([acquired by QIAGEN](https://corporate.qiagen.com/newsroom/press-releases/press-release-details/2017/QIAGEN-enhances-bioinformatics-portfolio-with-acquisition-of-OmicSoft/default.aspx)) and scaling **Vor Bio**, we support strategic decisions, from software evaluation, product development to fundraising, and can serve as interim CDO or Head of Computational Biology.
 
 <div style="text-align: center; margin-top: 2rem;">
   <a href="/contact/" style="
