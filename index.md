@@ -1,9 +1,7 @@
 ---
 title: "Home"
 permalink: /
-layout: single
-classes: wide
-author_profile: false
+layout: home
 ---
 
 # Innovating at Biotech’s Data and AI Frontier
