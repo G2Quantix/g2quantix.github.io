@@ -8,19 +8,19 @@ layout: home
 Founded by **Gary Ge, Ph.D.**, a seasoned expert with over 15 years in computational drug discovery and development, G2 Quantix offers deep expertise in building scalable data and analytics platforms. Gary led the development of **OmicSoft’s flagship products**, including **ArrayServer**, a robust multi-omics data management system, and **OncoLand** and **DiseaseLand**, curated omics data solutions that power AI-driven drug discovery. These platforms are widely adopted by leading global biopharma companies. His work at **Amgen** and **Vor Bio** spans the full R&D data lifecycle, supporting scientific operations and regulatory filings with both strategic planning and technical depth.
 
 ## What We Do
-### <i class="fas fa-database"></i> Research Informatics and Data Management
+### <i class="fas fa-database fa-lg"></i> Research Informatics and Data Management
 We design and customize cloud-native ELN, LIMS, and data lakes to make data AI-ready, guiding teams with nearly a decade of Bio-IT experience across top pharma and biotech companies.
 
-### <i class="fas fa-brain"></i> Development of AI/ML Solutions
+### <i class="fa fa-cog fa-spin fa-lg fa-fw"></i> Development of AI/ML Solutions
 We help build predictive models using high-quality local data—such as single-cell perturbation or antibody screening—to drive target discovery and design with lab-in-the-loop AI powered by foundational models.
 
-### <i class="fas fa-dna"></i> Computational Biology and Bioinformatics 
+### <i class="fas fa-dna fa-lg"></i> Computational Biology and Bioinformatics 
 Bioinformatics is essential to modern biotech. We build semi-automated, reproducible workflows for genomic analysis—freeing computational biologists from routine tasks to focus on in silico discovery and innovation.
 
-### <i class="fas fa-cut"></i> Gene Editing Analysis
-We guide gene editing optimization and assay design, supporting FDA-ready data packages—backed by five years of experience with genotoxicity assessments and regulatory interactions for [_trem-cel_](https://www.sciencedirect.com/science/article/pii/S2329050123001742).
+### <i class="fas fa-cut fa-lg"></i> Gene Editing Analysis
+We guide gene editing optimization and assay design, delivering FDA-ready data packages—built on five years of experience in on- and off-target genotoxicity assessments and regulatory interactions for [_trem-cel_](https://www.sciencedirect.com/science/article/pii/S2329050123001742) and CD33-targeted CAR-T programs.
 
-### <i class="fas fa-rocket"></i> Build Amazing Companies/Ventures
+### <i class="fas fa-rocket fa-lg"></i> Build Amazing Companies/Ventures
 With experience from building **OmicSoft** ([acquired by QIAGEN](https://corporate.qiagen.com/newsroom/press-releases/press-release-details/2017/QIAGEN-enhances-bioinformatics-portfolio-with-acquisition-of-OmicSoft/default.aspx)) and scaling **Vor Bio**, we support strategic decisions, from software evaluation to fundraising, and can serve as interim CDO or Head of Computational Biology.
 
 <div style="text-align: center; margin-top: 2rem;">
