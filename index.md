@@ -9,7 +9,7 @@ Founded by **Gary Ge, Ph.D.**, a seasoned expert with over 15 years in computati
 
 ## What We Do
 ### <i class="fa fa-cog fa-lg"></i> Development of AI/ML Solutions
-We help build predictive models using high-quality local data—such as single-cell perturbation or antibody screening—to drive target discovery and design, using lab-in-the-loop AI built on biological foundation models..
+We develop predictive models powered by high-quality local data—like single-cell perturbation experiments and compound or antibody screening—to accelerate target discovery and drug development. Our approach leverages lab-in-the-loop AI grounded in advanced biological foundation models.
 
 ### <i class="fas fa-database fa-lg"></i> Research Informatics and Data Management
 We design and customize cloud-native ELN, LIMS, and data lakes—making data AI-ready with insights from nearly a decade of Bio-IT experience across leading pharma and biotech organizations.
