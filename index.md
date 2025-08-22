@@ -3,25 +3,36 @@ permalink: /
 layout: home
 ---
 
-**G2 Quantix Solutions** empowers biotech and pharma organizations to turn complex biological data into actionable insights—accelerating R&D and therapeutic innovation.
+## **G2 Quantix Solutions**  
+**Turning complex biological data into clarity, strategy, and innovation.**
 
-Founded by **Gary Ge, Ph.D.**, a seasoned expert with over 15 years in computational drug discovery and development, G2 Quantix brings proven expertise in designing and scaling data and analytics platforms. Gary led the development of **OmicSoft’s flagship products**, including **ArrayServer**, a robust multi-omics data management system, and **OncoLand** and **DiseaseLand**, curated omics data solutions that power AI-driven drug discovery. These platforms are used by 15 of the top 20 global biopharma companies. His work at **Amgen** and **Vor Bio** spans the full R&D data lifecycle, supporting scientific operations and regulatory filings with both strategic planning and technical depth.
+Biotech and pharma face unprecedented challenges—constrained budgets, data complexity, and the need for faster R&D decisions. **G2 Quantix Solutions** empowers organizations to cut through the noise, transforming biological and clinical data into actionable insights that accelerate discovery, development, and company growth.  
 
-## What We Do
-### <i class="fa fa-cog fa-lg"></i> Development of AI/ML Solutions
-We develop predictive models powered by high-quality local data—like single-cell perturbation experiments and compound or antibody screening—to accelerate target discovery and drug development. Our approach leverages lab-in-the-loop AI grounded in advanced biological foundation models and active learning.
+Founded by **Gary Ge, Ph.D.**, a computational drug discovery and data strategy leader with 15+ years of experience, G2 Quantix brings a unique blend of **scientific depth and executive perspective**. Gary helped build and scale **OmicSoft’s flagship products** (ArrayServer, OncoLand, DiseaseLand)—platforms now relied upon by 15 of the top 20 global biopharma companies. His leadership at **Amgen** and **Vor Bio** spanned the full R&D data lifecycle, from early discovery through regulatory filings, balancing **technical rigor with strategic direction**.  
 
-### <i class="fas fa-database fa-lg"></i> Research Informatics and Data Management
-We design and customize cloud-native ELN, LIMS, and data lakes—making data AI-ready with insights from nearly a decade of Bio-IT experience across leading pharma and biotech organizations.
+## **Our Expertise**
+We help biotech and pharma teams unlock the value of their data, using approaches that are both **cutting-edge and practical**.
 
-### <i class="fas fa-dna fa-lg"></i> Computational Biology and Bioinformatics 
-Bioinformatics is essential to modern biotech. We build automated (event triggered), reproducible workflows for genomic analysis—freeing computational biologists from routine tasks to focus on in silico discovery and innovation.
+### ⚙️ AI/ML for Drug Discovery  
+We design predictive models grounded in **biological reality**—from single-cell perturbation to compound and antibody screening. Our lab-in-the-loop AI approach, built on foundation models and active learning, accelerates target discovery while staying data-driven and credible.
 
-### <i class="fas fa-cut fa-lg"></i> Gene Editing Analysis
-We support gene editing optimization and assay design (Cas9, Cas12a/Cpf1, ABE, and CBE), delivering FDA-ready data packages—backed by five years of experience in genotoxicity assessments (on-target, off-target, and translocation) and regulatory interactions for [_trem-cel_](https://www.sciencedirect.com/science/article/pii/S2329050123001742), multiplexed editing, and allogeneic CAR-T programs.
+### 🗄️ Research Informatics & Data Platforms  
+We architect and customize cloud-native ELN, LIMS, and data lakes that are **AI-ready by design**. With nearly a decade of Bio-IT experience across leading pharma and biotech, we ensure your infrastructure enables—not hinders—innovation.
 
-### <i class="fas fa-rocket fa-lg"></i> Build Amazing Companies/Ventures
-With experience from building **OmicSoft** ([acquired by QIAGEN](https://corporate.qiagen.com/newsroom/press-releases/press-release-details/2017/QIAGEN-enhances-bioinformatics-portfolio-with-acquisition-of-OmicSoft/default.aspx)) and scaling **Vor Bio**, we support strategic decisions, from CRO evaluation, product development to fundraising, and can serve as interim CDO or Head of Computational Biology.
+### 🧬 Computational Biology & Bioinformatics  
+From genomics to multi-omics, we build **automated, reproducible workflows** that free your scientists from repetitive analysis. Our solutions integrate seamlessly into discovery pipelines, empowering your team to focus on novel insights.
+
+### ✂️ Gene Editing Analytics  
+We bring proven expertise in **gene editing assay design and optimization** (Cas9, Cas12a, ABE, CBE). With 5+ years in genotoxicity assessment and FDA interactions, we deliver regulatory-grade data packages for emerging therapies—from multiplexed editing to CAR-T.
+
+### 🚀 Strategic Biotech Advisory  
+Having scaled **OmicSoft** ([acquired by QIAGEN](https://corporate.qiagen.com/newsroom/press-releases/press-release-details/2017/QIAGEN-enhances-bioinformatics-portfolio-with-acquisition-of-OmicSoft/default.aspx)) and guided **Vor Bio** through growth, we support companies at critical inflection points. We advise on CRO partnerships, product strategy, fundraising, and can step in as **interim CDO/CTO or Head of Computational Biology**.  
+
+## **Why G2 Quantix?**
+- **Strategic + Technical**: We don’t just implement tools—we align data, platforms, and science with your business priorities.  
+- **Proven Impact**: Our platforms and strategies are used by top-tier pharma and biotech, driving decisions across discovery and development.  
+- **Flexible Engagements**: From advisory consulting to interim leadership, we scale to your needs—helping you move forward in uncertain times.  
+
 
 <div style="text-align: center; margin-top: 2rem;">
   <a href="/contact/" style="
